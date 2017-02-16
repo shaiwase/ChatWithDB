@@ -1,0 +1,46 @@
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\client ui.exe
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\client ui.pdb
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.csprojResolveAssemblyReference.cache
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client_ui.Properties.Resources.resources
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.csproj.GenerateResource.Cache
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.exe
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.pdb
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\server business.dll
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\server business.pdb
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client_ui.ClientChatWindow.resources
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\server ui.exe
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\client ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\client ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.csprojResolveAssemblyReference.cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client_ui.ClientChatWindow.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client_ui.Properties.Resources.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\client ui\obj\Debug\client ui.csproj.GenerateResource.Cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\bin\Debug\client ui.exe.config
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\bin\Debug\client ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\bin\Debug\client ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\bin\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client ui.csprojResolveAssemblyReference.cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client_ui.ClientChatWindow.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client_ui.Properties.Resources.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client ui.csproj.GenerateResource.Cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\client ui\obj\Debug\client_ui.RegistrationForm.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\bin\Debug\client ui.exe.config
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\bin\Debug\client ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\bin\Debug\client ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\bin\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client ui.csprojResolveAssemblyReference.cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client_ui.ClientChatWindow.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client_ui.Properties.Resources.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client_ui.RegistrationForm.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\client ui\obj\Debug\client ui.csproj.GenerateResource.Cache

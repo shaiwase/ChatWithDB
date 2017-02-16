@@ -1,0 +1,37 @@
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\bin\Debug\server ui.exe
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\bin\Debug\server ui.pdb
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.csprojResolveAssemblyReference.cache
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server_ui.Properties.Resources.resources
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.csproj.GenerateResource.Cache
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.exe
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.pdb
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server_ui.ServerGUI.resources
+D:\Pers\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server_ui.ServerCommunicationManager.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\bin\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.csprojResolveAssemblyReference.cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server_ui.ServerCommunicationManager.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server_ui.ServerGUI.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server_ui.Properties.Resources.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example\server ui\obj\Debug\server ui.csproj.GenerateResource.Cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\bin\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server ui.csprojResolveAssemblyReference.cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server_ui.ServerCommunicationManager.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server_ui.ServerGUI.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server_ui.Properties.Resources.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\server ui\obj\Debug\server ui.csproj.GenerateResource.Cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\bin\Debug\server ui.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\bin\Debug\server ui.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server_ui.ServerCommunicationManager.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server_ui.ServerGUI.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server_ui.Properties.Resources.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server ui.csproj.GenerateResource.Cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\obj\Debug\server_ui.SearchDbTable.resources
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\server ui\bin\Debug\server ui.exe.config

@@ -1,0 +1,12 @@
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\ChatDB\bin\Debug\ChatDB.exe.config
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\ChatDB\bin\Debug\ChatDB.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\ChatDB\bin\Debug\ChatDB.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\ChatDB\obj\Debug\ChatDB.csprojResolveAssemblyReference.cache
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\ChatDB\obj\Debug\ChatDB.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\3 - Chat\the chat example with DB\ChatDB\obj\Debug\ChatDB.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\ChatDB\bin\Debug\ChatDB.exe.config
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\ChatDB\bin\Debug\ChatDB.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\ChatDB\bin\Debug\ChatDB.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\ChatDB\obj\Debug\ChatDB.exe
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\ChatDB\obj\Debug\ChatDB.pdb
+C:\Users\karine\Documents\Studies\ComputerSciences\JohnBrice\Project\the chat example with DB\ChatDB\obj\Debug\ChatDB.csprojResolveAssemblyReference.cache

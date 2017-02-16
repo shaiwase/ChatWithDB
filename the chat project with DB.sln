@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client ui", "client ui\client ui.csproj", "{6EAC5344-CD58-4BC7-89C6-8BC2094E3A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server ui", "server ui\server ui.csproj", "{AC4BF122-6C81-4D1F-8B29-9F3464E8F8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatDB", "ChatDB\ChatDB.csproj", "{302E5A0A-E1DB-4E4A-AC03-6D4F21FC96E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EAC5344-CD58-4BC7-89C6-8BC2094E3A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAC5344-CD58-4BC7-89C6-8BC2094E3A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAC5344-CD58-4BC7-89C6-8BC2094E3A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAC5344-CD58-4BC7-89C6-8BC2094E3A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4BF122-6C81-4D1F-8B29-9F3464E8F8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4BF122-6C81-4D1F-8B29-9F3464E8F8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4BF122-6C81-4D1F-8B29-9F3464E8F8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4BF122-6C81-4D1F-8B29-9F3464E8F8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302E5A0A-E1DB-4E4A-AC03-6D4F21FC96E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302E5A0A-E1DB-4E4A-AC03-6D4F21FC96E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302E5A0A-E1DB-4E4A-AC03-6D4F21FC96E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302E5A0A-E1DB-4E4A-AC03-6D4F21FC96E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
